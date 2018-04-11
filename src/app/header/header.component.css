@@ -1,0 +1,19 @@
+.header_area {
+    position: relative;
+    z-index: 999;
+}
+
+.top_header_area {
+    height: 50px;
+    width: 100%;
+    -webkit-transition-duration: 500ms;
+            transition-duration: 500ms;
+}
+
+.main_header_area {
+    height: 80px;
+    width: 100%;
+    background-color: #fff;
+    -webkit-transition-duration: 500ms;
+            transition-duration: 500ms;
+}
